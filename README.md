@@ -1,0 +1,10 @@
+brain-calc
+[![asciicast](https://asciinema.org/a/Og7VFxM5UDnQpPiCRgpc4jXyV.svg)](https://asciinema.org/a/Og7VFxM5UDnQpPiCRgpc4jXyV)
+brain-even
+[![asciicast](https://asciinema.org/a/sQOJxLgLC3sA1lBbIHZdJPowQ.svg)](https://asciinema.org/a/sQOJxLgLC3sA1lBbIHZdJPowQ)
+brain-progression   
+[![asciicast](https://asciinema.org/a/rWiQj42ThCIjlEoIJFqVVquSA.svg)](https://asciinema.org/a/rWiQj42ThCIjlEoIJFqVVquSA)
+brain-gcd
+[![asciicast](https://asciinema.org/a/xkTHUz4GlwIO1dSz4m3rJYbyd.svg)](https://asciinema.org/a/xkTHUz4GlwIO1dSz4m3rJYbyd)
+brain-prime
+[![asciicast](https://asciinema.org/a/tS0OviclfZLOYAOPTfqXj6yUF.svg)](https://asciinema.org/a/tS0OviclfZLOYAOPTfqXj6yUF)
