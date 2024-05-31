@@ -8,3 +8,4 @@ brain-gcd
 [![asciicast](https://asciinema.org/a/xkTHUz4GlwIO1dSz4m3rJYbyd.svg)](https://asciinema.org/a/xkTHUz4GlwIO1dSz4m3rJYbyd)
 brain-prime
 [![asciicast](https://asciinema.org/a/tS0OviclfZLOYAOPTfqXj6yUF.svg)](https://asciinema.org/a/tS0OviclfZLOYAOPTfqXj6yUF)
+[![Maintainability](https://api.codeclimate.com/v1/badges/56bbf624668b44b0fb0d/maintainability)](https://codeclimate.com/github/Zolwi/frontend-project-44/maintainability)
